@@ -1,3 +1,8 @@
+/**
+ * Creiamo un array con dieci numeri randomici
+ * calcoliamo la somma di tutti gli elementi
+ * e calcoliamo anche il valore medio
+ */
 let numbers=[];
 let sum=0;
 let average=0;
